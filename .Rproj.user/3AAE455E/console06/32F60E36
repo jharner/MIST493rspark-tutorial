@@ -1,0 +1,48 @@
+]0;~/Publish/MIST493rspark-tutorial[?1034hMacBook-Pro:MIST493rspark-tutorial jharner$ [KMacBook-Pro:MIST493rspark-tutorial jharner$ ls -L
+MIST493rspark-tutorial-concordance.tex	MIST493rspark-tutorial.synctex.gz
+MIST493rspark-tutorial.Rnw		MIST493rspark-tutorial.tex
+MIST493rspark-tutorial.Rproj		MIST493rspark-tutorial.toc
+MIST493rspark-tutorial.log		README.md
+MIST493rspark-tutorial.nav		Sweave.sty
+MIST493rspark-tutorial.pdf		figures
+MIST493rspark-tutorial.snm
+]0;~/Publish/MIST493rspark-tutorialMacBook-Pro:MIST493rspark-tutorial jharner$ ls -L[Kal
+total 1568
+drwxr-xr-x@ 17 jharner  staff     544 Jan 23 01:32 .
+drwxr-xr-x  14 jharner  staff     448 Jan 23 01:14 ..
+-rw-r--r--@  1 jharner  staff    6148 Jan 23 01:12 .DS_Store
+drwxr-xr-x   4 jharner  staff     128 Jan 23 01:29 .Rproj.user
+-rw-r--r--   1 jharner  staff      91 Jan 23 01:32 MIST493rspark-tutorial-concordance.tex
+-rwxr-xr-x@  1 jharner  staff   25523 Jan 23 01:32 MIST493rspark-tutorial.Rnw
+-rw-r--r--   1 jharner  staff     205 Jan 23 01:29 MIST493rspark-tutorial.Rproj
+-rw-r--r--   1 jharner  staff   48850 Jan 23 01:32 MIST493rspark-tutorial.log
+-rw-r--r--@  1 jharner  staff    5115 Jan 23 01:32 MIST493rspark-tutorial.nav
+-rw-r--r--@  1 jharner  staff  472154 Jan 23 01:32 MIST493rspark-tutorial.pdf
+-rw-r--r--@  1 jharner  staff       0 Jan 23 01:32 MIST493rspark-tutorial.snm
+-rw-r--r--   1 jharner  staff  116206 Jan 23 01:32 MIST493rspark-tutorial.synctex.gz
+-rw-r--r--@  1 jharner  staff   25536 Jan 23 01:32 MIST493rspark-tutorial.tex
+-rw-r--r--@  1 jharner  staff     354 Jan 23 01:32 MIST493rspark-tutorial.toc
+-rw-r--r--@  1 jharner  staff     502 Sep 27 14:08 README.md
+-rw-r--r--@  1 jharner  staff    1607 Apr  7  2018 Sweave.sty
+drwxr-xr-x@  8 jharner  staff     256 Jan 23 01:06 figures
+]0;~/Publish/MIST493rspark-tutorialMacBook-Pro:MIST493rspark-tutorial jharner$ cd MIST493rspark-tutorial.Rproj 
+bash: cd: MIST493rspark-tutorial.Rproj: Not a directory
+]0;~/Publish/MIST493rspark-tutorialMacBook-Pro:MIST493rspark-tutorial jharner$ cd .Rproj.user/
+]0;~/Publish/MIST493rspark-tutorial/.Rproj.userMacBook-Pro:.Rproj.user jharner$ ls
+3AAE455E	shared
+]0;~/Publish/MIST493rspark-tutorial/.Rproj.userMacBook-Pro:.Rproj.user jharner$ ls -al
+total 0
+drwxr-xr-x   4 jharner  staff  128 Jan 23 01:29 .
+drwxr-xr-x@ 17 jharner  staff  544 Jan 23 01:32 ..
+drwxr-xr-x   9 jharner  staff  288 Jan 23 01:29 3AAE455E
+drwxr-xr-x   3 jharner  staff   96 Jan 23 01:29 shared
+]0;~/Publish/MIST493rspark-tutorial/.Rproj.userMacBook-Pro:.Rproj.user jharner$ cd ..
+]0;~/Publish/MIST493rspark-tutorialMacBook-Pro:MIST493rspark-tutorial jharner$ ls
+MIST493rspark-tutorial-concordance.tex	MIST493rspark-tutorial.synctex.gz
+MIST493rspark-tutorial.Rnw		MIST493rspark-tutorial.tex
+MIST493rspark-tutorial.Rproj		MIST493rspark-tutorial.toc
+MIST493rspark-tutorial.log		README.md
+MIST493rspark-tutorial.nav		Sweave.sty
+MIST493rspark-tutorial.pdf		figures
+MIST493rspark-tutorial.snm
+]0;~/Publish/MIST493rspark-tutorialMacBook-Pro:MIST493rspark-tutorial jharner$ [KMacBook-Pro:MIST493rspark-tutorial jharner$ [KMacBook-Pro:MIST493rspark-tutorial jharner$ 
