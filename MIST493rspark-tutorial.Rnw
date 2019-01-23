@@ -168,6 +168,20 @@ To start the containers again, assuming you are in the \texttt{rspark-docker} di
 \end{frame}
 
 \begin{frame}[containsverbatim]
+  \frametitle{Scaling rspark with Kubernetes}
+Containers are self-contained execution environments based on Linux. Containers run on the same Linux kernel and thus share resources, which makes them far more efficient than virtual machines. Typically a container image is constructed for each application, but applications that are tightly coupled are often put in the same container.\\
+\vspace{0.25cm}
+Kubernetes orchestrates containerized applications, i.e., it is used to create, deploy, and manage containers in operational units called pods. Pods are of three types: deployments (persistent), stateful sets (databases, hdfs, etc.), and jobs (transient).
+\end{frame}
+
+\begin{frame}[containsverbatim]
+  \frametitle{A possible rspark Kubernetes Cluster}
+\begin{center}
+\includegraphics[height=0.7\textheight]{figures/rc2k8s.pdf}
+\end{center}
+\end{frame}
+
+\begin{frame}[containsverbatim]
   \frametitle{Importing rspark-tutorial into rspark}
   
 Once \texttt{rspark} is running, import the \texttt{rspark-tutorial} by clicking on the \texttt{Files} tab in RStudio server. The \texttt{rspark-tutorial} directory must be zipped before being imported. Click on the \texttt{Upload} option under the \texttt{Files} tab and navigate to the \texttt{rspark-tutorial.zip} file and upload it.\\
@@ -176,11 +190,11 @@ You can now execute the R markdown documents, i.e., those with the \texttt{.Rmd}
 \end{frame}
 
 \begin{frame}[containsverbatim]
-  \frametitle{Running the DSAA Tutorial Slides}
+  \frametitle{Running the Tutorial Slides}
   
 The slides cannot be executed in \texttt{rspark}'s \texttt{rstudio} docker container since the full publishing capability of RStudio is not supported. In particular the \LaTeX Beamer package (and other components of \LaTeX) was not installed to keep the container size reasonable.\\
 \vspace{0.5 cm}
-As a result, the \texttt{DSAA2018rspark-tutorial} repo must be executed within a local version of RStudio.
+As a result, the \texttt{MISTrspark-tutorial} repo must be executed within a local version of RStudio.
 \end{frame}
 
 \begin{frame}[containsverbatim]

@@ -6,3 +6,4 @@
 *.gz
 *.Rproj
 *.Rproj.user
+.Rproj.user
