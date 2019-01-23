@@ -4,3 +4,5 @@
 *.tex
 *.toc
 *.gz
+*.Rproj
+*.Rproj.user

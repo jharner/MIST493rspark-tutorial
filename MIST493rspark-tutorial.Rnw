@@ -94,12 +94,12 @@ macOS is UNIX based and therefore has \texttt{bash} built-in. Simply launch Term
 \end{frame}
 
 \begin{frame}[containsverbatim]
-  \frametitle{The DSAA Tutorial Beamer Slides}
+  \frametitle{The Tutorial Beamer Slides}
 
-The tutorial slides provide an overview of the tutorial content. The GitHub repo for the slides can be found here: \href{https://github.com/jharner/DSAA2018rspark-tutorial}{https://github.com/jharner/DSAA2018rspark-tutorial}\\
+The tutorial slides provide an overview of the tutorial content. The GitHub repo for the slides can be found here: \href{https://github.com/jharner/MIST493rspark-tutorial}{https://github.com/jharner/MIST493rspark-tutorial}\\
 \vspace{0.5 cm}
 Go to the site and click on the green button to clone the repo to your computer. Alternatively, clone this repo by issuing the following command from a terminal running \texttt{bash}:\\
-\texttt{git clone https://github.com/jharner/DSAA2018rspark-tutorial.git}\\
+\texttt{git clone https://github.com/jharner/MIST493rspark-tutorial.git}\\
 \vspace{0.5 cm}
 These slides are not the main source of content for this tutorial The R markdown notebook documents in the next slide provide the detailed, executable content.
 \end{frame}
