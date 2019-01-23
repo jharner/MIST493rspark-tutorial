@@ -6,5 +6,6 @@
 *.gz
 *.Rproj
 *.Rproj.user*
-.Rproj.user
+*INDEX
+.Rproj.user*
 .Rhistory
